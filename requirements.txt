@@ -1,9 +1,10 @@
-langchain,
+langchain
 langchain-openai
 langchain-astradb
 dataset
 pypdf
 python-dotenv
 flask
+pandas
 
 -e .
